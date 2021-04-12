@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stephin-franklin&label=Profile%20views&color=0e75b6&style=flat" alt="stephin-franklin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stephin-franklin" alt="stephin-franklin" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xarman" alt="0xarman" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/st1chb45h" target="blank"><img src="https://img.shields.io/twitter/follow/st1chb45h?logo=twitter&style=for-the-badge" alt="st1chb45h" /></a> </p>
+<p align="left"> <a href="https://twitter.com/st1chb45h" target="blank"><img src="https://img.shields.io/twitter/follow/st1chb45h?logo=twitter&style=for-the-badge" alt="0xarman" /></a> </p>
 
 - 🔭 I’m currently working on **IDN-TECHNOLOGY**
 
@@ -15,11 +15,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/st1chb45h" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="st1chb45h" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/stephin-franklin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="stephin-franklin" height="30" width="40" /></a>
-<a href="https://fb.com/st1chb45h" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="st1chb45h" height="30" width="40" /></a>
-<a href="https://instagram.com/st1chb45h" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="st1chb45h" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/anonymous tim3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="anonymous tim3" height="30" width="40" /></a>
+<a href="https://twitter.com/0xarman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="0xarman" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/0xarman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="0xarman" height="30" width="40" /></a>
+<a href="https://fb.com/0xarman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="0xarman" height="30" width="40" /></a>
+<a href="https://instagram.com/0xarman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="0xarman" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/UCC6qA8OyZpGt2iTPoAVvbzw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="anonymous tim3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
