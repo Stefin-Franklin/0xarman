@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arman Hossain</h1>
+<h1 align="center">Hi 👋, I'm Stefin Franklin</h1>
 <h3 align="center">A Certified Ethical Hacker from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stephin-franklin&label=Profile%20views&color=0e75b6&style=flat" alt="stephin-franklin" /> </p>
@@ -15,10 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/0xarman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="0xarman" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/0xarman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="0xarman" height="30" width="40" /></a>
-<a href="https://fb.com/0xarman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="0xarman" height="30" width="40" /></a>
-<a href="https://instagram.com/0xarman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="0xarman" height="30" width="40" /></a>
+<a href="https://twitter.com/0xrakibul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="0xrakibul" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/0xrakibul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="0xrakibul" height="30" width="40" /></a>
+<a href="https://fb.com/0xrakibul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="0xrakibul" height="30" width="40" /></a>
+<a href="https://instagram.com/0xrakibul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="0xrakibul" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCC6qA8OyZpGt2iTPoAVvbzw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="anonymous tim3" height="30" width="40" /></a>
 </p>
 
